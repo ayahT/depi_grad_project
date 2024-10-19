@@ -18,7 +18,7 @@ We fine-tuned a T5 model using [Hugging Face](https://huggingface.co/google/flan
 
 ### How to Run
 
-You can easily run both the fine-tuned model and the application on Google Colab:
+You can easily run both the fine-tuned model and the application on Google Colab.
 
 1. **Fine-Tuning T5 Model (`fine_tune_t5_depi`)**:
    - Run all the cells in the notebook to upload and run the fine-tuned T5 model on Colab.
@@ -26,7 +26,6 @@ You can easily run both the fine-tuned model and the application on Google Colab
 2. **Q-Ease Application**:
    - The application is developed using Streamlit and can be run directly in your Colab environment. 
 
-   ```
 
 ### Video Demo
 
