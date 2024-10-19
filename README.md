@@ -31,5 +31,5 @@ You can easily run both the fine-tuned model and the application on Google Colab
 
 Check out the video of the working application here:
 
-[![[Watch the video]](https://github.com/ayahT/depi_grad_project/blob/main/mp4_project.mp4))]
+[Watch the video](https://github.com/ayahT/depi_grad_project/blob/main/mp4_project.mp4))
 
